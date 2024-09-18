@@ -1,6 +1,7 @@
 # meu_segundo_commit
 comandos:
-git init: inicializa o versionamento git.
+
+git init: inicializa o versionamento.
 
 git add . :observa e grava as alterações.
 
